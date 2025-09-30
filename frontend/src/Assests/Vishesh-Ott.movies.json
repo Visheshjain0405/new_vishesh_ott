@@ -1,0 +1,2628 @@
+[{
+  "_id": {
+    "$oid": "687b8f0116208928d46705ba"
+  },
+  "title": "Christy",
+  "description": "Things get complicated when Roy, a young student weak in studies, joins coaching classes and falls in love with Christy, his tuition teacher.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1752928004/movies/poster/dl0crd8zgm4lojpc2oaq.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1752928003/movies/background/belteqsbxfsc16fsidyk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1752928004/movies/mobile-background/pe0oc9c2xxgvx4ix9k90.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/4U1nzy7ME",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687cb680ba59c47363593890"
+      }
+    }
+  ],
+  "genre": "romance",
+  "releaseYear": 2023,
+  "rating": 6.5,
+  "duration": "142",
+  "cast": "Mathew Thomas, Malavika Mohanan, Joy Mathew, Rajesh Madhavan, Vineeth Viswam, Veena Nair, Muthumani",
+  "director": "Alvin Henry",
+  "category": "southindian-dubbed",
+  "createdAt": {
+    "$date": "2025-07-19T12:26:41.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-20T09:27:34.293Z"
+  },
+  "__v": 0,
+  "trailerLink": "https://youtu.be/Fyy8SmRcFao?si=bNBohqukjYGviQqJ"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4241"
+  },
+  "title": "Amaran",
+  "description": "A true-life story of Major Mukund Varadarajan, a commissioned officer in the Indian Army`s Rajput Regiment, who was posthumously awarded the Ashok Chakra for his valor during a counterterrorism operation while on deputation to the 44th Rashtriya Rifles battalion in Jammu and Kashmir.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732472459/posters/osk8uvrfyiypa2tst870.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732472459/backgrounds/qvutrifwlcvrojzfx4ov.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732472458/mobile_backgrounds/peijs1vf5jx0vdzz70y6.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/XnNqZE-S0",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4272"
+  },
+  "title": "Mismatched S-3",
+  "description": "After being set-up by their families, two teenagers strike up a tentative friendship at their summer programme.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191706/posters/e2mnuu2gsegptexckkpd.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191706/backgrounds/bdifgzreovcssf8l1yi4.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191706/mobile_backgrounds/rvmpj9vgozlakrr3n8dy.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/RYdFYwAIsL",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4275"
+  },
+  "title": "Mufasa - The Lion King (2024)",
+  "description": "Lost and alone, orphaned cub Mufasa meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destinies.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444765/posters/d6wfeknchon2i6gphtnh.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444765/backgrounds/fdmoqftgw0ppg2po5ylk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444765/mobile_backgrounds/ca4e5oijiojcj2cizg0v.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/fPvGrOmBE",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "hollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4295"
+  },
+  "title": "Turbo",
+  "description": "Jeep driver Jose gets in trouble and is forced to relocate to Chennai, Tamil Nadu, India, where he becomes entangled with Indhu and his best friend. A series of surprises await them all.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824816/posters/p3hbqmsfonvwqcthymy4.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824816/backgrounds/ha4ryzz8jg3pvsmio4xt.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824816/mobile_backgrounds/dkssi4xcuszm8vwbwt4l.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/VzMEBLhCp",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429a"
+  },
+  "title": "Vedaa",
+  "description": "Vedaa is a 2024 Indian Hindi-language action drama film directed by Nikkhil Advani and produced by Zee Studios, Emmay Entertainment and JA Entertainment. The film stars John Abraham, Sharvari, Abhishek Banerjee and Ashish Vidyarthi. Inspired by true events, it was released on 15 August 2024.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825153/posters/uxut9jflzaqfn9g9bxws.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825154/backgrounds/qjeudruaypjp5zjyakat.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825153/mobile_backgrounds/qio76tabqppw2xxi7lbj.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/kfNPb2TFF",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429d"
+  },
+  "title": "Yudhra",
+  "description": "A hotheaded ex-prisoner who is released on the condition of working with a drug cartel.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541372/posters/vazpodwhlwvbdiqat8nn.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541373/backgrounds/xyrasmepkovltf6zdfe6.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541373/mobile_backgrounds/egmp10xjjktkna1jriqd.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/LSrgdVUlu",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4240"
+  },
+  "title": "Ace",
+  "description": "Ace is a 2025 Indian Tamil-language romantic crime comedy film written, produced and directed by Arumuga Kumar. It stars Vijay Sethupathi and Rukmini Vasanth, alongside Yogi Babu, B. S. Avinash and Babloo Prithiveeraj.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968489/posters/rgkqjnrcv0sszabrdfbj.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968488/backgrounds/gr4ze5sx5fjixhgbcq1z.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968489/mobile_backgrounds/yaauk2tkwrazozva8w5q.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/GLtAobPPv",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4249"
+  },
+  "title": "Bhoothakaalam",
+  "description": "Following the death of a family member, a mother and son experience mysterious events which distort their sense of reality and make them question their sanity.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751393781/posters/badez4puzfuzehwdijjx.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751393781/backgrounds/uahtyo96pswqenlalumc.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751393781/mobile_backgrounds/eczkwgsfmx5g3fb1xsz3.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/3In_Qt6sk",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424f"
+  },
+  "title": "Citadel: Honey Bunny",
+  "description": "Citadel: Honey Bunny is an Indian Hindi-language spy action television series directed by Raj & DK, who co-wrote with Sita R Menon. It is the spin-off to the American television series Citadel on Amazon Prime Video. It stars Varun Dhawan and Samantha Ruth Prabhu as the title characters with Kay Kay Menon, Simran, Sikandar Kher, Saqib Saleem, Soham Majumdar, Shivankit Singh Parihar and Thalaivaasal Vijay in supporting roles.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1731004669/posters/vxxxkvctbjztzgyxnvpq.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1731004668/backgrounds/h5b3lfu8nm3bb9zeotiy.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1731004669/mobile_backgrounds/dys16ooyobqp94vwb4ra.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/OX1OIPgwe",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4255"
+  },
+  "title": "Dhoom Dhaam",
+  "description": "On their wedding night, an oddball couple gets entangled in a chaotic chase, dodging both goons and the police as they desperately search for Charlie.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538070/posters/sgur7xhlqavvxvji9mw2.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538070/backgrounds/axlb6hsiv2ggnascxakg.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538070/mobile_backgrounds/pgkcszepne2oeh3hgaqk.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/NncpuKrQj",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4262"
+  },
+  "title": "Harom Hara",
+  "description": "Man loses job, faces financial ruin. Desperate, he enters illegal arms trade, eventually becoming South India's most notorious arms lord as his involvement deepens.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820877/posters/eycs65wjefyeqwrx3dkp.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820877/backgrounds/rk0m8sug7ixcccy1fimz.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820877/mobile_backgrounds/rz1hn8r0shwuwunushiy.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/E3UHARvXO",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426b"
+  },
+  "title": "Kesari Chapter 2",
+  "description": "Kesari Chapter 2: The Untold Story of Jallianwala Bagh is a 2025 Indian Hindi-language historical courtroom drama film directed by Karan Singh Tyagi and produced by Dharma Productions, Leo Media Collective, and Cape of Good Films. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745426248/posters/l0nm5xcmlhq8jfzhijsz.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745426247/backgrounds/ytre7oyyxzqw0haeg140.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745426248/mobile_backgrounds/q1emu2outzscdzyukqff.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/6rfO-Vxzc",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427b"
+  },
+  "title": "Qalb",
+  "description": "Two young hearts fall for each other and set out on a journey through the seven stages of love.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738686154/posters/fjpy0vfrrsftycnsaweu.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738686154/backgrounds/lcz09mtbk2svgjzsghwp.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738686155/mobile_backgrounds/arfgsusu4evelblqq6si.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/6kp-xI90h",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4283"
+  },
+  "title": "Sankranthiki Vasthunam",
+  "description": "When a renowned tech entrepreneur is kidnapped upon returning to India, a police officer recruits her ex-boyfriend, a former cop now living a quiet family life, to assist in the rescue mission.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537815/posters/niqnei1unfmq5bobiol5.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537815/backgrounds/qumtrtwarrbfxvsbxvyh.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537816/mobile_backgrounds/fupb6xjs8wozdohsagmz.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/8P0GXigRs-",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d26bc8295b8ef86c54f29"
+      }
+    }
+  ],
+  "genre": "comedy",
+  "releaseYear": 2025,
+  "rating": 6.2,
+  "duration": "144",
+  "cast": "Venkatesh; Aishwarya Rajesh; Meenakshi Chaudhary",
+  "director": "Anil Ravipudi",
+  "category": "southindian-dubbed",
+  "updatedAt": {
+    "$date": "2025-07-20T17:27:16.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428b"
+  },
+  "title": "Suriya's Saturday",
+  "description": "Surya, who fights against injustice on Saturdays, locks horns with corrupt Inspector R. Dayanand, who brutally attacks innocent people for petty reasons.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725125926/posters/cw0p9e8cxdsglzkfxacg.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725125927/backgrounds/blpcacklqjn8kaivu1rz.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725125927/mobile_backgrounds/omrrgt6inocbgcmlmfb3.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/T_iiNQ9Cf",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4244"
+  },
+  "title": "Baby John",
+  "description": "Baby John is a 2024 Indian Hindi-language action thriller film directed by Kalees that serves as a remake of Atlee's 2016 Tamil film Theri. The film stars Varun Dhawan in the title role, alongside Keerthy Suresh, Wamiqa Gabbi and Zara Zyanna.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737010178/posters/urehcq4rasdokaqiqwsr.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737010177/backgrounds/xlqzntqmsdrzizszoc71.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737010178/mobile_backgrounds/zbs0nd07ae35biidkxn4.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/n4NHSR0cN",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426c"
+  },
+  "title": "Kill",
+  "description": "A train to New Delhi becomes a combat battleground as a pair of commandos faces off against an army of invading bandits.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821628/posters/okejvx4hzqkqbmxk6xra.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821627/backgrounds/vy68dqk492523focdxsm.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821627/mobile_backgrounds/qymqftuwluo2uyt5peqw.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/5hxJJJF2-",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4274"
+  },
+  "title": "Mrs",
+  "description": "Mrs. is a 2025 Hindi-language drama film directed by Arati Kadav. It stars Sanya Malhotra, along with Nishant Dahiya and Kanwaljit Singh. The film portrays a woman who is a trained dancer and dance teacher; but after marriage has to navigate the ordeals of marriage, as she tries to follow her own path, find her voice, and express herself freely even as society imposes unnecessary and patriarchal expectations with regard to her marital life. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293676/posters/mgceu5tbycgi0up1l86o.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293676/backgrounds/bsdcn3v8vfqsiopznet5.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293676/mobile_backgrounds/xnugus0yuozh0upvasoh.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/UAWfMSSCM",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4252"
+  },
+  "title": "Deadpool & Wolverine",
+  "description": "Deadpool's peaceful existence comes crashing down when the Time Variance Authority recruits him to help safeguard the multiverse. He soon unites with his would-be pal, Wolverine, to complete the mission and save his world from an existential threat.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823194/posters/wo2a2tl5qeo4sywuxhdq.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823194/backgrounds/yxduafufqqonnbdl0vc5.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823192/mobile_backgrounds/iqhzucaazxbvdoxbcpic.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/TOhmA4sT9B",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "hollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425e"
+  },
+  "title": "Garudan",
+  "description": "Straightforward cop Harish and college professor Nishanth get entangled in a dangerous crime. One must fight for his integrity, and the other must fight for justice.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739292848/posters/jrpjpuqy3fph1olyzxcd.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739292850/backgrounds/c05vs0jifcedxexioycc.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739292848/mobile_backgrounds/prnimdlnhyk5ygl1wgpu.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/VqC7LUDnc",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425f"
+  },
+  "title": "Ghudchadi",
+  "description": "Ghudchadi is a 2024 Indian Hindi-language romantic comedy film directed by Binoy Gandhi and written by Deepak Kapur Bhardwaj. Produced by Nidhi Dutta, Binoy Gandhi, Bhushan Kumar and Krishan Kumar under the banner of Keep Dreaming Pictures and T-Series.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825055/posters/djmth0zfdmjd6rbxljwm.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825055/backgrounds/yi0rbeglbeoyzkclsovk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723825056/mobile_backgrounds/kffvcsxxdbwrmcag5rly.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/B_6F8O6Jm",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4261"
+  },
+  "title": "HIT: The Third Case",
+  "description": "HIT: The Third Case is a 2025 Indian Telugu-language action thriller film written and directed by Sailesh Kolanu. Produced by Prashanti Tipirneni and Nani under Wall Poster Cinema and Unanimous Productions, the film stars Nani and Srinidhi Shetty in the lead roles. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268041/posters/o4mv5mqxmy1drrykcdke.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268041/backgrounds/i3hcisybf90ox028tx3m.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268041/mobile_backgrounds/rivmwumhyhhr4vocxbi6.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/VU2zO-dvU",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426e"
+  },
+  "title": "Maharaja",
+  "description": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"lakshmi\" has been taken, leaving them uncertain if it's a person or object. His quest to recover the elusive \"lakshmi\" unfolds.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821741/posters/xmks9w7p0xa19qcbxzzl.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821741/backgrounds/myvael9vh6nivm9pprbo.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821742/mobile_backgrounds/ubfi8s1dtehcv35s6a3v.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/66tJvzS3-",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4298"
+  },
+  "title": "Vaazha - Biopic of a Billion Boys",
+  "description": "Four friends deemed \"losers\" face immense pressure from parents and society upon entering adulthood. Their emotional tale sees them embark on a journey of self-discovery and acceptance, where love ultimately triumphs over judgment.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727540183/posters/vy9hydoozkgnivh3fpvn.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727540185/backgrounds/yu6gfhtjgjkbeukoud4m.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727540186/mobile_backgrounds/wmqfpnzs4w1eqdqiwpgf.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/neWTLr1mv",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425d"
+  },
+  "title": "Game Changer",
+  "description": "Game Changer is a 2025 Indian Telugu-language political action film directed by S. Shankar, in his first Telugu film, and produced by Dil Raju under Sri Venkateswara Creations. The film stars Ram Charan in dual roles, alongside Kiara Advani, Anjali, Samuthirakani, S. J. Suryah, Srikanth, Sunil, Jayaram, and Naveen Chandra.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510855/posters/ab4vajfslahwmus9w7k4.png",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510854/backgrounds/rrz9fz5xuzoznuhcc5dk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510855/mobile_backgrounds/cerygmkgvfsuuttoztgi.png",
+  "type": "movie",
+  "movieLink": "https://short.icu/Xf242cSGj",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4263"
+  },
+  "title": "Houseful 5B",
+  "description": "Housefull 5 is a 2025 Indian Hindi-language comedy thriller film co-written and directed by Tarun Mansukhani and produced by Sajid Nadiadwala, Warda Nadiadwala and Firuzi Khan under production banner Nadiadwala Grandson Entertainment. It marks the fifth installment of the Housefull franchise. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749664360/posters/qfnt2y9cblxvkdpeiwsh.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749664360/backgrounds/r8aphxudlieorbfzdjyt.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749664360/mobile_backgrounds/zdqjhf4zptysdop9supn.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/hCCdfGmF7",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4271"
+  },
+  "title": "Meri Husband Ki Biwi",
+  "description": "A Delhi professional faces a love triangle when his old flame returns as he falls for someone new. This leads to a series of comedic misunderstandings in his relationships.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538239/posters/lkj7hscbw6ogbitrdjna.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538238/backgrounds/yj5a7dsxeo8slgzul0fg.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538238/mobile_backgrounds/ixfobyfhsomb3s4sjqvi.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/p1bTpeKZN",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4278"
+  },
+  "title": "Operation Java",
+  "description": "A team of police officers from the Kochi cyber cell embarks on a mission to investigate a series of mysterious crimes and unlawful activities.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820761/posters/tkihy7qzrmngeirn0upd.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820760/backgrounds/qxdfzlfzdofyrcssjw1q.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820760/mobile_backgrounds/c2bxopnsvcb5pjoimyab.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/CnR3iYOz8",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427a"
+  },
+  "title": "Pushpa 2",
+  "description": "Pushpa 2: The Rule",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271641/posters/smldupenxjhsjo5on8sv.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271641/backgrounds/hhdxpoefnfz9khuqqm6u.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271641/mobile_backgrounds/dpnyidz7tph5wt9p6xkj.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/8_3f5vlQn",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4280"
+  },
+  "title": "Rana Naidu Season 2",
+  "description": "Rana Naidu can solve any problem in Bollywood; however, when his father is released from prison, the one mess he can't handle may be his own.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749924191/posters/cujqxz6uvhzjdatn3rgc.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1754299201/movies/background/mnmeymclwgdzakxxpcge.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1754299202/movies/mobile-background/dxvhnaiwhfqk84x3dkal.jpg",
+  "type": "series",
+  "movieLink": "https://short.icu/gwoGUfhvc",
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "link": "https://short.icu/gwoGUfhvc",
+      "duration": "",
+      "_id": {
+        "$oid": "68907944fc539fa3f28c5043"
+      }
+    }
+  ],
+  "genre": "action",
+  "releaseYear": 2025,
+  "rating": 8.5,
+  "duration": "140",
+  "cast": "Rana Daggubati, Venkatesh Daggubati, Suchitra Pillai, Gaurav Chopra, Surveen Chawla, Sushant Singh, Abhishek Banerjee",
+  "director": "Karan Anshuman and Suparn Verma",
+  "category": "southindian-dubbed",
+  "updatedAt": {
+    "$date": "2025-08-04T09:19:37.657Z"
+  },
+  "trailerLink": "https://www.youtube.com/embed/FMdRr0bBiRQ?si=qrdvuZ8HKenlQIY3"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428c"
+  },
+  "title": "Suzhal - The Vortex - Season 2",
+  "description": "Created by Pushkar and Gayatri, Suzhal - The Vortex S2 begins with the shocking murder of senior activist lawyer CHELLAPPA, who defended NANDINI. SAKKARAI is called in to take over the investigation and help the family. Set against the backdrop of the massive Ashtakaali Festival in the small town of Kaalipattinam, the case unravels acts in the past",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1740820953/posters/s3mpurkqwspbslmmdt8l.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1740820953/backgrounds/aayrunu8a1lr0xq9hrga.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1740820953/mobile_backgrounds/islpredb3f5rerunwome.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/jTS3dJCDE",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4294"
+  },
+  "title": "Tourist Family",
+  "description": "Tourist Family is a 2025 Indian Tamil-language comedy drama film written and directed by Abishan Jeevinth, in his directorial debut.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751136707/posters/yzhzklx8vjptxfboyfou.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751136707/backgrounds/kbgtqhmcxtks5jriwlky.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751136707/mobile_backgrounds/ufowafbwtojuetp85boz.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/hReGIIona",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4299"
+  },
+  "title": "Vanvaas (2024)",
+  "description": "The dynamics between an elderly father grappling with dementia and his family.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444874/posters/pj1zdt2litjtx3pf1e6m.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444874/backgrounds/h7h2ng4mgakm4isagiau.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444874/mobile_backgrounds/q0duztpd7i8nbd0z5ogo.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/IeaAP-PdH",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429e"
+  },
+  "title": "iC 814: The Kandahar Hijack (Season 1)",
+  "description": "When IC 814 gets hijacked on its way to Delhi, hundreds of lives are at stake as the country faces its longest and most alarming aviation crisis. Starring:Naseeruddin Shah, Pankaj Kapur, Vijay Varma Creators:Anubhav Sinha, Trishant Shrivastava",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725540757/posters/qywetu51ygeizq27xlt6.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725540757/backgrounds/no3ahpxhu583kzzncjhk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1725540757/mobile_backgrounds/kmtyvty3ogbufwljvoem.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/MeYyBbOLO",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4247"
+  },
+  "title": "Bagheera",
+  "description": "In a lawless land of injustice and corruption, a police officer turns to vigilante justice to protect innocents.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736177565/posters/wacvnegk7bf14mf9ohdp.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736177564/backgrounds/mvy5mtinyykni6ggmzvh.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736177565/mobile_backgrounds/obca94in2zfte448vgpj.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/CNEf3Eww2",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4248"
+  },
+  "title": "Bandish Bandits",
+  "description": "Two singers who have contrasting personalities set out on an incredible journey of self-discovery with one another.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733557039/posters/ywjcfibf9vf119cqmkiu.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733557038/backgrounds/ibzl0dtpklaqderbnrwi.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733557037/mobile_backgrounds/mopvx8ve6w2wca1x7fqa.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/Sa5w9LZ-Y",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4257"
+  },
+  "title": "Doctors S01 (2024)",
+  "description": "New resident Dr. Nitiya Vasu has a secret vendetta against mentor Dr. Ishaan Ahuja. As they navigate the medical world together, she starts seeing another side of him, challenging her convictions and heart.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736445104/posters/j8zli7ojym5jis4sf9dm.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736445104/backgrounds/ps3lkdfzfjzgrejbwahq.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736445104/mobile_backgrounds/mysdndsrtnmyhtktgw4v.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/PFkAaailm",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427e"
+  },
+  "title": "Ramarao on Duty",
+  "description": "A courageous and honest police officer investigates the case of the missing husband of his ex-girlfriend, which leads him to bust a scam pertaining to the illegal smuggling of red sandalwood.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821501/posters/hya3glupwabhhfvbgr4t.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820364/backgrounds/h3dt3zf6vancno9wkakq.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820364/mobile_backgrounds/qf9a3l9wqe9x01vkimuk.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/vSAdCvHRA",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4282"
+  },
+  "title": "Saindhav",
+  "description": "Saindhav, a single parent, lives a peaceful life with his daughter. Things change when Saindhav learns that his daughter has an illness.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820244/posters/unkqxhygpana28bmqmei.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820243/backgrounds/ucy7loibvnko0pujii3n.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820244/mobile_backgrounds/rcfz8zgt4b58m08kh3ge.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/wyufC-Vu6",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4259"
+  },
+  "title": "Eleven",
+  "description": "A seasoned police officer begins an investigation after a series of gruesome murders targeting twins comes to light. However, he soon encounters a sinister game of psychological manipulation.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751740179/posters/uljyxytou45vuvdgh4e4.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751740178/backgrounds/fsaiav7bcqjmjdi9mwrf.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751740178/mobile_backgrounds/gqgdwe27biajvtympczd.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/zumtR4riN",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4268"
+  },
+  "title": "Jigra",
+  "description": "Jigra is a 2024 Indian Hindi-language action thriller film directed by Vasan Bala, who also co-wrote it with Debashish Irengbam.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1729875607/posters/bwlfaryatjx7w21zvxvj.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1729875606/backgrounds/ordfbzk71hp2b7fuytun.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1729875605/mobile_backgrounds/tg12hx42ez7kn6udzn04.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/9UnBmaZQX",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426a"
+  },
+  "title": "Kahan Shuru Kahan Khatam",
+  "description": "A commitment-phobic woman refuses to marry the man her parents have chosen for her. Chaos ensues as she tries to escape the wedding while the groom and his family chase her down.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542141/posters/xx1efx7lzjvg0rvcsa6r.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542141/backgrounds/l9guf2ngyhzjiwchtrij.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542142/mobile_backgrounds/yjprf1llfhsdaqkcroll.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/8Kpc0dAgX",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4297"
+  },
+  "title": "Ulajh",
+  "description": "The journey of a young IFS officer, belonging to a prominent family of patriots, who gets embroiled in a dangerous personal conspiracy while far from her home turf, at a career-defining post.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823441/posters/xnwyoduccqnzbcqjbsho.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823441/backgrounds/xdiw8tafbbs8y6wijkho.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823442/mobile_backgrounds/t3ct94dvj3983czk4wnn.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/oobRw7K9i",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429c"
+  },
+  "title": "Yuddhakaanda Chapter 2",
+  "description": "Yuddhakaanda: Chapter 2 is a 2025 Indian Kannada language legal drama film directed by Pavan Bhat. It stars Ajay Rao, Archana Jois and Prakash Belawadi in lead roles. The film was released on 18 April 2025 and received positive reviews from critics as well as audience.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750953809/posters/chaoem2dxiqrc0wwyo07.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750953809/backgrounds/zhp5draflxdscho3du69.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750953809/mobile_backgrounds/syqjdsvuu9mdxgodpjoh.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/5yzlPMmXK",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f423f"
+  },
+  "title": "Rekhachithram",
+  "description": "Rekhachithram is a 2025 Indian Malayalam-language mystery crime thriller film directed by Jofin T. Chacko, scripted by John Manthrikal, based on a story by Ramu Sunil. The film was produced by Kavya Film Company and Ann Mega Media.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538493/posters/lifclnol51oar0ngbt1c.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538492/backgrounds/ypad2vv3lrkjfqhkjugu.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538493/mobile_backgrounds/a7bxffh15paccctjy7up.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/XRQKoe5d5",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424d"
+  },
+  "title": "Captain America - Brave New World",
+  "description": "Sam finds himself in the middle of an international incident after meeting with President Thaddeus Ross. He must soon discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710217/posters/ns2h9qyq7v4oki6xurir.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710217/backgrounds/mhf6wqulhwd4jglc7a8n.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710217/mobile_backgrounds/jnptjhztrov6cxidk5pv.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/XEu7_6AM4",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4250"
+  },
+  "title": "Court: State vs A Nobody",
+  "description": "A passionate defense attorney fights against prejudice and corruption in the justice system while representing a teenage client wrongly presumed guilty of a serious crime.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744655187/posters/oe8hw4szqdziwwcd62mk.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744655186/backgrounds/fvubi4mdyky0ok481zqx.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744655187/mobile_backgrounds/d2q03z3cswppdakqp12o.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/FFi2bFZ8S",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4267"
+  },
+  "title": "Jack",
+  "description": "The main character is struggling to understand his son, Pablo Neruda. Unaware of his son's activities, he is desperate to find out what he does for a living.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751142228/posters/nylunyys6ajixogb3rqq.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751142228/backgrounds/glegmp8bq6x1klfkekgw.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751142227/mobile_backgrounds/iqjm2uljxrtnlthisjjk.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/qzsPx8ykh",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426f"
+  },
+  "title": "Maharshi",
+  "description": "A rich businessman returns to India to mend ways with his ex-classmate. However, when he learns about his friend's plight, he tries to help him and becomes a saviour for the villagers in the process.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820665/posters/fppe8xtdrab7ktff4ys5.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820665/backgrounds/dcqjt6v8lqdcgjz1jmfu.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820665/mobile_backgrounds/eazbc4zbyly2xbenjjuw.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/VLKjiuaio",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427d"
+  },
+  "title": "Raid 2",
+  "description": "Raid 2 is a 2025 Indian Hindi-language crime thriller film directed by Raj Kumar Gupta. The film is a sequel to Raid and stars Ajay Devgn, Riteish Deshmukh and Vaani Kapoor. Set 7 years after the events of the first film, it follows the return of IRS officer Amay Patnaik, who tracks another white-collar crime.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268152/posters/rl0fnqcafhlw2a4ehadh.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268152/backgrounds/i0wrlqzmtwwl4kucchpu.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268152/mobile_backgrounds/hwivbufemivqu5mg2djo.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/zaqM_-ZPj",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427f"
+  },
+  "title": "Rana Naidu Season 1",
+  "description": "Rana Naidu can solve any problem in Bollywood; however, when his father is released from prison, the one mess he can't handle may be his own.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749924095/posters/akiectytylqzjcbqrwxd.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749924095/backgrounds/tlpr4enyrvkacyoucmje.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1749924095/mobile_backgrounds/r2fopemlrl424r5nmo5h.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/jJwX6vDIX",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4287"
+  },
+  "title": "Sikandar Ka Muqaddar",
+  "description": "A dedicated police officer launches an inquiry into an unsolved robbery. However, his investigation soon turns into an obsession, plaguing the lives of the suspects.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733391190/posters/osw722b4lmoiexi7iygy.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733391189/backgrounds/or0fgjru3ahtf78mcng4.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733391189/mobile_backgrounds/nt6ivhfxfsc3h6nwmjiz.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/QiaXw22gtj",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d23f58295b8ef86c54cba"
+      }
+    }
+  ],
+  "genre": "thriller",
+  "releaseYear": 2024,
+  "rating": 5.9,
+  "duration": "143",
+  "cast": "Jimmy Sheirgill, Avinash Tiwary, Tamannaah Bhatia, Rajeev Mehta, Divya Dutta",
+  "director": "Neeraj Pandey",
+  "category": "southindian-dubbed",
+  "updatedAt": {
+    "$date": "2025-07-20T17:17:12.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4288"
+  },
+  "title": "Singham Again",
+  "description": "Drawing parallels to the Ramayana, Singham and his allies confront a mysterious antagonist in their quest to rescue his spouse.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271865/posters/im5mfjwjne9cguegqh7v.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271865/backgrounds/kfi9ki9luiuvxoppa7qt.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734271865/mobile_backgrounds/s7czzfs5o1l5ngifbseb.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/CWImrp_AF",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d24998295b8ef86c54d22"
+      }
+    }
+  ],
+  "genre": "action",
+  "releaseYear": 2024,
+  "rating": 4.6,
+  "duration": "144",
+  "cast": "Ajay Devgn; Kareena Kapoor Khan; Shweta Tiwari; Dayanand Shetty; Arjun Kapoor; Jackie Shroff",
+  "director": "Rohit Shetty",
+  "category": "bollywood",
+  "updatedAt": {
+    "$date": "2025-07-20T17:19:49.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4292"
+  },
+  "title": "The Royals",
+  "description": "Follows the clash between an entitled prince and a tech startup entrepreneur, exploring their opposing worlds and interactions amid a contemporary fairy tale setting.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746979783/posters/al0lmcvyxotpfwozwm8b.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746979782/backgrounds/ar49ydlm17c8smudqzc6.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746979782/mobile_backgrounds/brwrewmrd2o2hfjhije9.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/Bnf4ucown",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429b"
+  },
+  "title": "Wild Wild Punjab 2024",
+  "description": "Khanne gets upset after his break-up, but he has friends who encourage him to face this break-up head-on and move on. So they embark on a trip across Punjab to help Khanne find the closure he desires.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822736/posters/grb8m3bfyju5sy7bla6u.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822736/backgrounds/tjyjj9gpfp6ol8uacxnk.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822736/mobile_backgrounds/zlfmaax6gs9yilai1ctw.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/RjXg8Jx4r",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f42a0"
+  },
+  "title": "tumbbad",
+  "description": "When a family builds a shrine for Hastar, a monster who is never to be worshipped, and attempts to get their hands on his cursed wealth, they face catastrophic consequences.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727543049/posters/oqt6rl73yjxz1urpq9rh.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727543048/backgrounds/amiptakap3bg09ncmfdu.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727543048/mobile_backgrounds/pmext3dyhrrwc9dgoa13.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/LUEx2byBP",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4251"
+  },
+  "title": "Crazxy",
+  "description": "Crazxy is 2025 Indian Hindi-language thriller film written and directed by Girish Kohli in his directorial debut and produced by Sohum Shah, Mukesh Shah, Amita Shah and Adesh Prasad under Sohum Shah Films. The film stars Sohum in the lead role and the only on-screen character, as surgeon Abhimanyu Singh, who races against time to rescue his daughter from a kidnapper.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537670/posters/mwfzxxp5yjqg6m51gui6.avif",
+  "backgroundPoster": "",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537669/mobile_backgrounds/d2nhmyqhpx8pqhuzpclw.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/Mwe_N7Oph",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "hollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425a"
+  },
+  "title": "Emergency",
+  "description": "The incidents that take place under the leadership of Mrs. Indira Gandhi, one of the most powerful women in Indian history.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737182793/posters/d0qtbuddppbxapzmdnfj.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737182794/backgrounds/cadzaws4qile0xrzf2dp.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737182793/mobile_backgrounds/sm7edmnnsrnqq0qizygi.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/ISPBsBCUl",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4260"
+  },
+  "title": "HIT: The Second Case",
+  "description": "HIT: The Second Case is an upcoming Indian Telugu-language action-thriller film written and directed by Sailesh Kolanu. It is a sequel to the 2020 film HIT: The First Case. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734112588/posters/gbvuuxkemwktkw9b5pd9.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734112588/backgrounds/mjlrifj54rob7mgmdstp.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734112589/mobile_backgrounds/zwgcjoyjh5qrpkbrx0vp.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/ckhabHkAP",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4266"
+  },
+  "title": "Jaat",
+  "description": "In a remote coastal village, criminal Varadaraja Ranatunga terrorizes the locals. A traveling stranger's encounter with his men uncovers the villagers' suffering.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744485918/posters/huxehypsbmyqbrnmtccp.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744485918/backgrounds/ypnktnkbv7lfxac1v9ty.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1744485918/mobile_backgrounds/jjtdisfmypwcri2snnmr.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/FelvBdLkq",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4285"
+  },
+  "title": "Sarkar",
+  "description": "An NRI businessman returns home and learns about the practice of illegal voting. When he decides to investigate the matter, he finds himself pitted against two corrupt politicians.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738264674/posters/frjfwbmepwdnmlmysd8j.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738264674/backgrounds/hu9ujhimeigbyin8ttde.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1738264674/mobile_backgrounds/f3o0um8zffuvdyu6izlq.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/j4Ht7lrUF",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d25798295b8ef86c54e59"
+      }
+    }
+  ],
+  "genre": "action",
+  "releaseYear": 2018,
+  "rating": 6.7,
+  "duration": "164",
+  "cast": "Vijay, Keerthy Suresh, Varalaxmi Sarathkumar, Pala Karuppiah, Radha Ravi, Yogi Babu",
+  "director": "A.R. Murugadoss",
+  "category": "southindian-dubbed",
+  "updatedAt": {
+    "$date": "2025-07-20T17:24:51.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4243"
+  },
+  "title": "Baapu",
+  "description": "A farming family seeks to escape their debts, believing one member's death may be the answer.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538400/posters/occ88ovh8n0zry2lxp58.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538400/backgrounds/guzyhc5djgzsx4us2ltg.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741538400/mobile_backgrounds/yn2qutuu8omhfaiedhtk.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/a4acqK7UWN",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4246"
+  },
+  "title": "Badass Ravi Kumar",
+  "description": "Ravikumar as he takes on criminals in his own unique way. A spin-off of The Xpose, Ravikumar facing new challenges and villains in an adventure.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293806/posters/wbsquzhizhadmfqs1icv.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293806/backgrounds/jevzco6ljbzesgkwynrm.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739293806/mobile_backgrounds/zhprcxhoukfsv1cyg9hc.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/CQIy6O69Z",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424e"
+  },
+  "title": "Chhaava",
+  "description": "Chhaava is a 2025 Indian Hindi-language historical action film based on the life of Sambhaji, the second ruler of the Maratha Confederacy, played by Vicky Kaushal. It is an adaptation of the Marathi novel Chhava by Shivaji Sawant.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739709928/posters/ckk6ekpwpcqqbpz0f0vb.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739709927/backgrounds/fuzldezohqmtjsd6mqbs.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739709927/mobile_backgrounds/a8mu6g0trpvhgcrpgcap.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/deWfZWYlk",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428e"
+  },
+  "title": "The Bhootni",
+  "description": "The Bhootnii is a 2025 Indian Hindi-language comedy horror film written and directed by Sidhaant Sachdev, and produced by Deepak Mukut and Sanjay Dutt. The film stars Sanjay Dutt, Sunny Singh, Mouni Roy and Palak Tiwari. The Bhootnii was released on 1 May 2025.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268272/posters/bto9e9vzf3z26wp8emdi.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268271/backgrounds/ykdzopvnx0em7hgsq9hf.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746268271/mobile_backgrounds/ivcpndka2w5arlyweelm.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/7gGn5hrHy",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428f"
+  },
+  "title": "The Buckingham Murders",
+  "description": "A grieving cop loses her child to murder and moves to another town where she investigates the disappearance of a missing child.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727977945/posters/cqoil2q45s9dyvujs1bk.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727977946/backgrounds/w9mn21gehhsdrvruymgi.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727977946/mobile_backgrounds/htt4e5vylaqu6lnkxvar.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/stlghLBh6",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424a"
+  },
+  "title": "Bromance",
+  "description": "Binto teams up with his brother's friends for an adventure to find him, leading to unexpected twists, discoveries, and unforgettable moments.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746907631/posters/enoompcijykdjl5pyjn9.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746907631/backgrounds/ijj7pfli8fut3yyt1g8x.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1746907631/mobile_backgrounds/gassyw0mug2xmnsmg44l.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/sZpT54rjC",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4253"
+  },
+  "title": "Demonte Colony 2",
+  "description": "A group of friends who return to a cursed location, driven by curiosity and the quest to uncover the truth behind the malevolent spirits that reside there.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750354176/posters/ieyz0bbyk4o5hgyg3ui8.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750354169/backgrounds/sb6nj9xpl4lrb4qtcoeo.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750354169/mobile_backgrounds/ny1aydaunyufwrzfpijz.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/3SzicM29l",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4254"
+  },
+  "title": "Devara: Part 1",
+  "description": "Devara: Part 1 is a 2024 Indian Telugu-language action drama film directed by Koratala Siva and jointly produced by Yuvasudha Arts and N. T. R. Arts. The film stars N. T. Rama Rao Jr in dual roles, alongside Saif Ali Khan, Janhvi Kapoor and Shruti Marathe in their first Telugu film.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542454/posters/e2lqhflbc6fipcjjua3y.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542453/backgrounds/aumu4xmjnldnjmomuwmi.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727542453/mobile_backgrounds/x7fqi2dxn9yc0vnwcut8.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/5-_KEPP3d",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4265"
+  },
+  "title": "Ishq-In-The-Air-S01-(2024)",
+  "description": "Ishq In The Air is an Indian Hindi-language romantic drama television series directed by Tanmai Rastogi and written by Akshay Jhunjhunwala, Ayush Sharma, Chiranjeevi Bajpai and Riya Poojary. Produced under BBC Studios, it stars Shantanu Maheshwari and Medha Rana. The series premiered on Amazon MX Player on 20 September 2024.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541239/posters/adtlisaelvcufdqotz4q.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541239/backgrounds/auptdwys7xrnezylyn6c.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541239/mobile_backgrounds/pkhlc6ydu5nl0adfrcar.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/Ic50wy_Dm",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f426d"
+  },
+  "title": "Lucky Bhaskar",
+  "description": "A cash-strapped cashier working at a bank embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732815975/posters/bhlf4hdr84mmbihgujpw.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732815975/backgrounds/kz9tehksdrf2mjmcm0p6.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732815976/mobile_backgrounds/tvolclhjraxsp0ijpala.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/IfCpe37Ao",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4276"
+  },
+  "title": "Naa Saami Ranga",
+  "description": "Three brothers brought together by chance navigate their love lives while jealousy from village elders brews.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820456/posters/ifpdonp03pfohqkkiyoe.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820456/backgrounds/uhzbkrjrsybvpka7pmnw.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820456/mobile_backgrounds/z6eoo7vnpdynxnxyduhx.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/0s3YGYW_h",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4284"
+  },
+  "title": "Sarfira",
+  "description": "In the world of startups and aviation, a common man dreams of starting his own airline.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822439/posters/ouqqoaetuyocuaohyjrv.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822438/backgrounds/olh0xumdl7lmisijfiae.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723822438/mobile_backgrounds/s3ncjc5ezrqmlsmh7bzv.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/2yogu2x-0",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d26648295b8ef86c54ec1"
+      }
+    }
+  ],
+  "genre": "drama",
+  "releaseYear": 2024,
+  "rating": 6.9,
+  "duration": "153",
+  "cast": "Akshay Kumar, Paresh Rawal, Radhika Madan",
+  "director": "Sudha Kongara Prasad",
+  "category": "bollywood",
+  "updatedAt": {
+    "$date": "2025-07-20T17:26:19.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4296"
+  },
+  "title": "UI Movie",
+  "description": "A director creates waves with a movie featuring extremely weird content, but vanishes after the film's release. The search party gets hold of a different movie script from his home, and the audience is drawn into the new storyline as that film plays out on screen.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444630/posters/kvntfuxoyep9kkhxyheu.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444630/backgrounds/gndwirxpijoavnewhfgr.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736444630/mobile_backgrounds/k3wm6yfrpc7jzj3r3lf2.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/LnI4PQrRE",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4256"
+  },
+  "title": "Dispatched",
+  "description": "Despatch is an Indian Hindi-language crime drama film directed by Kanu Behl. The film is produced by Ronnie Screwvala under RSVP Movies and it stars Manoj Bajpayee and Shahana Goswami in lead roles.[",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191859/posters/s3jgpkrsbvtlg2rdu6tj.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191858/backgrounds/sijwt2pgi8a1b2wqjyqn.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1734191858/mobile_backgrounds/w6h1eqgkudmwnkhguoez.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/C0xxXo_fO",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4270"
+  },
+  "title": "Max",
+  "description": "Inspector Arjun Mahakshay, law and order inspector reports to duty at a new police station after a two-months suspension and faces an unexpected situation.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537954/posters/sjoy5bwa3vlrkncohskl.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537954/backgrounds/s5xmc5utizhsydwifsxp.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1741537955/mobile_backgrounds/xykklbmeo6rjo9pozwu1.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/t1DQe5G-L",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4277"
+  },
+  "title": "Odela 2",
+  "description": "Tirupathi mysteriously returns from the dead, unleashing terror and murders in the village. Amid a failed investigation, hope emerges in Shiva Shakti. In a battle of good vs. evil, she defeats Tirupathi's soul, bringing light back to Odela.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751219256/posters/ujexwacldbqe7mva4v5m.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751219250/backgrounds/gk81j0w662immxnwniwx.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751219250/mobile_backgrounds/dnnnvi6mtbm5tthz0aai.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/7h0uRaRC4",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4279"
+  },
+  "title": "Phir Aayi Hasseen Dillruba",
+  "description": "Escaping from the police in Agra, Rani and Rishu decide to elope together. When their plan goes awry, Rani seeks a helping hand from a kind admirer.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824901/posters/v0gufnwj6cal3n1hwyob.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824902/backgrounds/upuf7whqtpbdyqox0dvn.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723824901/mobile_backgrounds/xnhs8ebetpdrj8tnxsmm.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/kC75VWcLx",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428a"
+  },
+  "title": "Sookshmadarshini",
+  "description": "ookshmadarshini is a 2024 Indian Malayalam-language black comedy mystery film directed by M. C. Jithin, written by Libin T.B and Athul Ramachandran. Produced by Happy Hours Entertainments and AVA Productions, it stars Nazriya Nazim and Basil Joseph. ",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737012806/posters/rwkzg0dlrh8qlimxm1jq.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737012807/backgrounds/wdirpnsidiudgvcnuvd2.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737012806/mobile_backgrounds/qpuu2acbws1umyc0mj7o.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/eiGK_IdXU",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424b"
+  },
+  "title": "Bubblegum",
+  "description": "Bubblegum is a 2023 Indian Telugu-language romantic drama film directed by Ravikanth Perepu and produced by Maheshwari Movies and People Media Factory. It stars Suma Kanakala and Rajeev Kanakala's son Roshan Kanakala, Maanasa Choudhary, Chaitu Jonnalagadda, Harsha Chemudu, Anannyaa Akulaa, Anu Hasan, Kiran Macha in lead roles. The film was theatrically released in India on 29 December 2023.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968321/posters/yoelexm6zdio8mogrvs4.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968321/backgrounds/gnyvujhgjzxfiaco4djy.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1750968321/mobile_backgrounds/cpi72xneutpqif1c1vdg.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/VB0bJscZL",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4258"
+  },
+  "title": "Dragon",
+  "description": "Following a breakup, student Ragavan leaves school and becomes involved in financial fraud. He seeks money and influence but faces increasing risks from his actions.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745344104/posters/k6akmj8mrhawuemor9xb.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745344104/backgrounds/pn79o0gxridzconwc7yi.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1745344104/mobile_backgrounds/kokwqxlwrqcrgpeyz7ch.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/mpBfuNJml",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4264"
+  },
+  "title": "Identity",
+  "description": "A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710369/posters/m02mpbveuwx1wuebesww.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710369/backgrounds/tncqnapeo5j7bpdtfedm.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710369/mobile_backgrounds/iwyzfmkzh0ddz3k2bbr4.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/9TfszK77E",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4269"
+  },
+  "title": "Kadha Innuvare",
+  "description": "Four couples fight against all odds and difficulties to be with their true love, while their anthology showcases passionate struggles for romance.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751795861/posters/gbolscimlvvahjkqvxd5.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751795860/backgrounds/updqjh1tovyzy81remr2.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751795861/mobile_backgrounds/zshusvxgajzgqc94by1m.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/uN-ML433p",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4293"
+  },
+  "title": "The Sabarmati Report",
+  "description": "A journalist investigates the 2002 Godhra train burning in Gujarat. Years later, another reporter discovers his hidden report. They uncover a conspiracy involving powerful figures, facing threats as they pursue the truth.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732810924/posters/nqmm3aqomerbuki5bu8s.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732810924/backgrounds/smsnx1x5zl4r0mj9tkps.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1732810924/mobile_backgrounds/ssxekavvkv99h9agj6m5.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/9JoxWuILg",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4245"
+  },
+  "title": "Bachchala Malli",
+  "description": "Set in the 1990's, the story follows the emotional and action-filled journey of Bachhala Malli, a rural hero. The narrative combines intense drama with romance, focusing on the protagonist's challenges and personal growth in a rustic backdrop.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737544702/posters/nnk5mkw6u6gtb79goi1l.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737544703/backgrounds/opsruvkethwtxp6whhna.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1737544702/mobile_backgrounds/g1ifjbjfmktzz9lbp8kz.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/SUq7r7ezj",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425c"
+  },
+  "title": "Final Destination Bloodlines",
+  "description": "Plagued by a violent and recurring nightmare, a college student heads home to track down the one person who might be able to break the cycle of death and save her family from the grisly demise that inevitably awaits them all.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1747941212/posters/ktcy02knbqk8nxcrnd9s.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1747941212/backgrounds/c837nj2daeif3bauope5.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1747941213/mobile_backgrounds/hx8qgbdj98pvmr2uf6y1.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/9edzyPjzd",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "hollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4286"
+  },
+  "title": "Siddharth Roy",
+  "description": "A man embraces logic and reason, but he's overwhelmed by emotions, resulting in heartache and inner turmoil.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733336564/posters/y4cr0buedy75ordjztc5.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733336564/backgrounds/rer2jcgioeywtxvweomh.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1733336564/mobile_backgrounds/f8qyvy22vukxlyqt9prt.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/KKmHjsNGv",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": "",
+      "_id": {
+        "$oid": "687d25368295b8ef86c54d8a"
+      }
+    }
+  ],
+  "genre": "romance",
+  "releaseYear": 2024,
+  "rating": 6.3,
+  "duration": "148",
+  "cast": "Deepak Saroj; Tanvi Negi; Gaurav Mahaur",
+  "director": "V Yeshasvi",
+  "category": "southindian-dubbed",
+  "updatedAt": {
+    "$date": "2025-07-20T17:20:56.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4289"
+  },
+  "title": "Single",
+  "description": "A charming bachelor who, despite being adored by two women, is resolute in his decision to remain single.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751661441/posters/gpvsssdoffzeokkhhojy.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751661441/backgrounds/llsvkctglhyitd4midh6.avif",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751661442/mobile_backgrounds/bpj5yy3tuz4fpvhcnvph.avif",
+  "type": "movie",
+  "movieLink": "https://short.icu/OKkMxmr_T",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f429f"
+  },
+  "title": "taaza khabar season 2",
+  "description": "Taaza Khabar Season 2 premieres on Disney+ Hotstar on September 27, featuring Bhuvan Bam, Shriya Pilgaonkar, Deven Bhojani, Prathamesh Parab, and the newest addition, Javed Jaffrey.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541591/posters/kkegvdye4rbg9tly0dwh.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541591/backgrounds/hku6ensrk5lwdn4qf9pb.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541591/mobile_backgrounds/m5anqm55i9vlsdelpd8w.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/ACePgH5FmV",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4242"
+  },
+  "title": "Auron Mein Kahan Dum Tha",
+  "description": "Auron Mein Kahan Dum Tha is a 2024 Indian Hindi-language romantic thriller film written and directed by Neeraj Pandey. The film stars Ajay Devgn and Tabu in their tenth film together alongside Jimmy Sheirgill, Shantanu Maheshwari and Saiee Manjrekar. The project between Pandey and Devgn was announced in October 2022.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823545/posters/vbdbklq15bqwz2prrjpr.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823546/backgrounds/pfwl3x6r8viw5n5qxbtu.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823545/mobile_backgrounds/vh5g8m5t2tem5dqq6bkl.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/Dgtf-X2ds",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f424c"
+  },
+  "title": "Call Me Bae",
+  "description": "Downsized from heiress to hustler, 'Bae' discovers her most valuable assets aren't her diamonds, but her street-smart style; broke, but refusing to be broken, she navigates the newsrooms of Mumbai and her better self while breaking news.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541716/posters/ea7q4gn1wrdpj0wile1u.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541716/backgrounds/xrpz3gmgdgwiq2v9tpyw.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541715/mobile_backgrounds/ci5behedgrbikicw7gno.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/kRYGmUM2A",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4273"
+  },
+  "title": "Mission: Chapter 1",
+  "description": "An Indian man is locked in prison while his daughter needs an operation. He manages to escape during a riot and is chased by the jailer.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723821481/posters/ldbudy8utvodmj7bbbs0.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820571/backgrounds/p1rxq734sdf7h2pdckte.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723820571/mobile_backgrounds/fg3nujiystcg1pr5njrx.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/jCnG4Bw6r",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f428d"
+  },
+  "title": "Thandel",
+  "description": "An action drama about how the Pakistan forces catches a fisherman from Srikakulam in international waters.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710065/posters/mlancbnxfcrdg1ngsrcm.avif",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710066/backgrounds/knwbtu5rzqxn666vidgf.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1739710066/mobile_backgrounds/g4pvvhx17e9qf56fffck.webp",
+  "type": "movie",
+  "movieLink": "https://short.icu/_GpSG9tMSR",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4290"
+  },
+  "title": "The Diplomatic",
+  "description": "Based on a story of an Indian diplomat who tries to repatriate an Indian girl from Pakistan, where she was presumably forced and deceived into marrying against her will.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1742146805/posters/tccvrkrmxx9l4f9in0at.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1742146805/backgrounds/idagbitvid7almup2grq.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1742146805/mobile_backgrounds/ppcadcrx0eygcpoh2aef.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/nCu1zMg0t",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f425b"
+  },
+  "title": "Fateh",
+  "description": "Fateh is a 2025 Indian Hindi-language action thriller film written and directed by Sonu Sood and produced by Shakti Sagar Productions, and Zee Studios and co-produced by Ajay Dhama. The film stars Sonu Sood, alongside Jacqueline Fernandez, Vijay Raaz, Naseeruddin Shah and Dibyendu Bhattacharya.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510561/posters/yhv0rola82j68wdgek7m.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510561/backgrounds/lsckyekeikbq9gjbte8j.webp",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1736510561/mobile_backgrounds/o6q4d2vbrvwi78lptzsi.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/PqnFwDb9n",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "bollywood"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f427c"
+  },
+  "title": "Raayan",
+  "description": "After his family is killed, a young man trains to avenge their murders. Seeking those responsible, his quest leads him through the criminal underworld.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823636/posters/kd4g0inmpwek0xormsy2.webp",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823636/backgrounds/k8rzlmvfoygtujhwxchj.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1723823636/mobile_backgrounds/mpdlbw3f6wyn3wz2gsfn.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/fGktF8Y1d",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4281"
+  },
+  "title": "Saaree",
+  "description": "A Guy On A Holiday With His Friends Spots A Girl In A SAAREE. He Gets So Obsessed With Her That Upon Facing Rejection, He Turns Extremely Dangerous. He Wants To Have Her ONLY For Himself By Hook Or Crook.",
+  "mainPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751706455/posters/js3eqzld0w36xpqagf0p.jpg",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751706455/backgrounds/emjnouhyvieng98ximqv.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1751706455/mobile_backgrounds/oxmuidta67qpego3ayt6.jpg",
+  "type": "movie",
+  "movieLink": "https://short.icu/XS7QDlWRg",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2025",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+},
+{
+  "_id": {
+    "$oid": "687cb8532db79b70433f4291"
+  },
+  "title": "The Greatest of All Time",
+  "description": "After years of successful operations, an elite agent suddenly retires, choosing a quiet, ordinary life. However, when a past mission comes back to haunt him, he reunites with his team to prevent a catastrophic disaster.",
+  "mainPoster": "",
+  "backgroundPoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541978/backgrounds/prvoyaxjim6tswr0q4b1.jpg",
+  "mobilePoster": "https://res.cloudinary.com/djh2ro9tm/image/upload/v1727541978/mobile_backgrounds/wbyxgdi704jfueoito80.gif",
+  "type": "movie",
+  "movieLink": "https://short.icu/aOAppnc_n",
+  "episodes": [
+    {
+      "title": "",
+      "link": "",
+      "duration": ""
+    }
+  ],
+  "genre": "",
+  "releaseYear": "2024",
+  "rating": "",
+  "duration": "",
+  "cast": "",
+  "director": "",
+  "category": "southindian-dubbed"
+}]
